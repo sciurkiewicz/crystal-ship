@@ -5,6 +5,8 @@ import LandingPage from './views/LandingPage.vue'
 
 <template>
   <div>
+
+    <!-- https://tailwindcomponents.com/u/zoltanszogyenyi -->
     <LandingPage></LandingPage>
   </div>
 
