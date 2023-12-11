@@ -30,27 +30,17 @@
 
                 <a
                     class="flex text-gray-600 cursor-pointer transition-colors duration-300 font-semibold text-blue-600">
-                    Themes
+                    Feed
                 </a>
 
                 <a
                     class="flex text-gray-600 hover:text-blue-500 cursor-pointer transition-colors duration-300">
-                    Developers
+                    Users
                 </a>
 
                 <a
                     class="flex text-gray-600 hover:text-blue-500 cursor-pointer transition-colors duration-300">
-                    Pricing
-                </a>
-
-                <a
-                    class="flex text-gray-600 hover:text-blue-500 cursor-pointer transition-colors duration-300">
-                    Blog
-                </a>
-
-                <a
-                    class="flex text-gray-600 hover:text-blue-500 cursor-pointer transition-colors duration-300">
-                    About Us
+                    Profile
                 </a>
             </div>
 

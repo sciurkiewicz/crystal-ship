@@ -1,13 +1,14 @@
 <script setup lang="ts">
-import LandingPage from './views/LandingPage.vue'
+import Feed from './views/Feed.vue'
+import Navbar from './components/Navbar.vue'
 
 </script>
 
 <template>
   <div>
-
+    <Navbar />
+    <Feed />
     <!-- https://tailwindcomponents.com/u/zoltanszogyenyi -->
-    <LandingPage></LandingPage>
   </div>
 
 </template>
