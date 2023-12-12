@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Feed from './views/Feed.vue'
 import Navbar from './components/Navbar.vue'
+import Thread from './components/Thread.vue'
 
 </script>
 
@@ -8,6 +9,7 @@ import Navbar from './components/Navbar.vue'
   <div>
     <Navbar />
     <Feed />
+    <Thread />
     <!-- https://tailwindcomponents.com/u/zoltanszogyenyi -->
   </div>
 
